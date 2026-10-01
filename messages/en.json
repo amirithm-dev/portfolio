@@ -1,5 +1,15 @@
 {
   "Skills": {
     "title": "My Skills :"
+  },
+  "hero": {
+    "bio": {
+      "p1": "Hello it's Amir also known as Amirithm.",
+      "p2": "I'm a developer from Neyshabur, currently studying Software Engineering.",
+      "p3": "I've been coding for years and I still enjoy learning something new every time I build.",
+      "p4": "I like working on APIs, desktop applications, and backend systems, with a focus on clean code, understanding the process, and getting the small details right."
+    }
   }
 }
+
+
